@@ -1,0 +1,11 @@
+{
+	"name": "rs-beacon-counter",
+	"version": "1.1.0",
+	"title": "Beacon counter",
+	"author": "repne-scasb",
+	"factorio_version": "1.1",
+	"dependencies": [
+		"base"
+	],
+	"description": "Displays the (normalized) number of beacons besides a machine"
+}

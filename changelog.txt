@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2022-06-04
+  Info:
+    - First release uploaded to mod portal
+  Features:
+    - Update count when beacons get placed/destroyed
+    - Count ghosts
+    - Setting to only display count in alt-mode
+  Graphics:
+    - Increase visibility
