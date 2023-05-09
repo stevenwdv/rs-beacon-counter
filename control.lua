@@ -10,7 +10,7 @@ local function to_map(list)
     return map
 end
 
-local crafting_machines = { "assembling-machine", "furnace", "rocket-silo" }
+local crafting_machines = { "assembling-machine", "furnace", "rocket-silo", "mining-drill" }
 local is_crafting_machine = to_map(crafting_machines)
 
 ---@type table<string,LuaEntityPrototype>
